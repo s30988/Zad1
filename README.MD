@@ -1,3 +1,3 @@
-<Matylda> <Świerczyńska>
-<13c>
-<s30988>
+Matylda Świerczyńska
+13c
+s30988
